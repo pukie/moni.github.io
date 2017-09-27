@@ -10,5 +10,5 @@
 	 - receiving notifications about events I'm interested in
 ***
 
-[moni.github.io](https://github.com/moni/moni.github.io)
+[moni.github.io](https://moni.github.io/)
 
