@@ -4,11 +4,11 @@
 ***
 
 **project description:**
-> * project name: *no name*
-> * project objectives: 
->     + 
->     +
->     +
+* project name: *no name*
+* project objectives: 
+..+ 
+..+
+..+
 
 ***
 
