@@ -1,14 +1,13 @@
 # Monika Rusajczyk
 
 
-***
 
 **project description:**
 * project name: *no name*
 * project objectives: 
-    *
-    *
-    *
+	 - ..
+	 - ..
+	 - ..
 
 ***
 
