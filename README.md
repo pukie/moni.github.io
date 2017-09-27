@@ -6,9 +6,9 @@
 **project description:**
 * project name: *no name*
 * project objectives: 
-    + 
-    +
-    +
+    *
+    *
+    *
 
 ***
 
